@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Davit Papikyan
-- 👀 I’m interested in Machine Learning and Mathematics.
-- 🌱 I’m currently studying at the Technical University of Munich in Mathematics in Data Science master's program. 
-- 📫 davidpyan3@gmail.com
+- Hi, I’m Davit Papikyan
+- I’m interested in Machine Learning and Mathematics.
+- I’m currently studying at the Technical University of Munich in Mathematics in Data Science master's program. 
+- davidpyan3@gmail.com
