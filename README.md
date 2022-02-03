@@ -1,4 +1,4 @@
 - Hi, I’m Davit Papikyan
 - I’m interested in Machine Learning and Mathematics.
-- I’m currently studying at the Technical University of Munich in Mathematics in Data Science Master's program. 
+- Currently studying at the Technical University of Munich in Mathematics in Data Science Master's program. 
 - Email: davidpyan3@gmail.com
