@@ -2,3 +2,4 @@
 - I’m interested in Machine Learning and Mathematics.
 - Currently studying at Technical University of Munich in Mathematics in Data Science Master's program. 
 - Email: davidpyan3@gmail.com
+- LinkedIn: https://www.linkedin.com/in/davitpapikyan/
