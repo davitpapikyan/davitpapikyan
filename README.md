@@ -1,5 +1,5 @@
 - Hi, I’m Davit
-- Graduate degree in Mathematics in Data Science from TU München
+- Master's degree in Mathematics in Data Science from TU München
 - Interested in Generative models, Object Tracking & MLOps
 - Email: davidpyan3@gmail.com
 - LinkedIn: https://www.linkedin.com/in/davitpapikyan/
