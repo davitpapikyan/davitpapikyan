@@ -1,5 +1,5 @@
 - Hi, I’m Davit
 - Master's degree in Mathematics in Data Science from TU München
 - Interested in Large Language Models
-- Email: davidpyan3@gmail.com
 - LinkedIn: https://www.linkedin.com/in/davitpapikyan/
+- Email: davidpyan3@gmail.com
