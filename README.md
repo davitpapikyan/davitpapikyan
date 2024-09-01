@@ -1,5 +1,5 @@
-- Hi, I’m Davit
-- Master's degree in Mathematics in Data Science from TU München
-- Interested in Large Language Models
+- Hi, I’m Davit.
+- Master's in Mathematics and Data Science, TU München.
+- 6+ years of AI experience.
 - [LinkedIn profile](https://www.linkedin.com/in/davitpapikyan/)
 - Email: davidpyan3@gmail.com
