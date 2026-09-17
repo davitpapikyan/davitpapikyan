@@ -9,7 +9,6 @@ I specialize in taking machine learning projects from research and experimentati
 - 🧠 Research experience in diffusion models and adversarial machine learning
 - 🎓 MSc in Mathematics in Data Science from the **Technical University of Munich**
 - 👨‍🏫 Former Python lecturer and MLOps teaching associate
-- 🏆 Third place at the 2024 Bio ML Hackathon
 
 ## Technologies
 
